@@ -4,4 +4,4 @@ Clone the repository.
 Run npm i to install the packages and dependencies.
 Run npm start to run the project on port 3000.
 
-Hosted on: https://function-calculator-reaxpudx3-suhani2306s-projects.vercel.app/
+Hosted on: https://function-calculator-two.vercel.app/
